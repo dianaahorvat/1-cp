@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1577543004 source:c:\cp\hollywood\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
